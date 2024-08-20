@@ -150,7 +150,7 @@ export function CommendSend() {
 }
 
 export const bot = {
-    TOKEN: "5169354010:AAFlFQCD4lk29l9FXfKYb7nTzZnbsfOohy0", chatID: "1085241246",
+    TOKEN: "", chatID: "",
 }
 // export const url = "http://localhost:3000/";
 export const url = "https://oleo.pythonanywhere.com/";
